@@ -1,6 +1,8 @@
 # Offer GovWifi
 
-GovWifi is a wifi authentication service using RADIUS server technology allowing staff and visitors to use a single user login to connect to guest wifi across the public sector. 
+This should have an automatic preview.
+
+GovWifi is a wifi authentication service using RADIUS server technology allowing staff and visitors to use a single user login to connect to guest wifi across the public sector.
 
 If you manage IT services in a public sector organisation and would like to make GovWifi available in your buildings, use this technical documentation to find out how to:
 
