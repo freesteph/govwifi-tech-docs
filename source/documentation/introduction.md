@@ -1,8 +1,6 @@
 # Offer GovWifi
 
-This should have an automatic preview.
-
-Really should
+How is the winter I couldn't hear the rest glorious summer kind of yolk.
 
 GovWifi is a wifi authentication service using RADIUS server technology allowing staff and visitors to use a single user login to connect to guest wifi across the public sector.
 
